@@ -42,6 +42,14 @@ export default function Portfolio() {
       liveLink: "https://b2b-leadgen-landing.vercel.app",
       githubLink: "https://github.com/rohinisakure25/b2b-leadgen-landing",
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop"
+    },
+    {
+      title: "Chrono-Mug Landing Page - Interactive Theme Showcase",
+      description: "Interactive landing page showcasing 5 professional color themes with live preview and theme switcher. Features smooth animations, modal interactions, and responsive design for a premium coffee mug product.",
+      tags: ["React", "Tailwind CSS", "Interactive UI", "Theme System", "Animations"],
+      liveLink: "https://chrono-mug-themes.vercel.app",
+      githubLink: "https://github.com/rohinisakure25/chrono-mug-landing",
+      image: "https://images.unsplash.com/photo-1514481538271-cf9f99627ab4?w=600&h=400&fit=crop"
     }
   ];
 
